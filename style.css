@@ -6,6 +6,32 @@ Resize an image
 Change the background color of an element
 Add a background image to a section of the page (div)
 */
+
+section {
+  background-color: #e5cea4;
+  width: 35rem;
+  height: fit-content;
+  margin: auto;
+}
+img {
+  width: 20rem;
+  height: 20rem;
+  display: block;
+  margin: auto;
+}
+h1 {
+  font-size: 2rem;
+  font-family: "Kings";
+  text-align: center;
+  padding: 0rem;
+}
+
+h2 {
+  text-align: center;
+}
+
 p {
-  justify-content: center;
+  font-family: "Kings";
+  color: gray;
+  text-align: center;
 }
